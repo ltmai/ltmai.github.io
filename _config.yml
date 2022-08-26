@@ -1,0 +1,4 @@
+theme: cayman
+
+plugins:
+ - jekyll-seo-tag 
